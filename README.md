@@ -11,3 +11,4 @@
 
 2. To run the code
    `flutter run`
+![image alt](https://github.com/sarahpng/Pagination-Assessment/blob/9faa3af4d03d93584e64a2a83fa48fe564026f7d/pagination_screenshot.png)
